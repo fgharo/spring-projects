@@ -1,0 +1,13 @@
+This parent project holds various application projects that explore 
+spring boot features or libraries compatible with spring boot.
+
+For example, perhaps we are exploring core features such as automatic configuration or
+trying out different embedded servers for a service. There are a lot of different applications
+one could make with a spring boot project, a rest or soap service, messaging queues,
+command line runner, enterprise integrations via fuse or apache camel, etc.  
+
+
+Alternatively, what if we want to experiment with integrating a spring boot based project
+with various libraries for logging (log4j, slf4j/logback, etc), security, metrics, health checks,
+lombok, mapstruct, etc.
+

@@ -1,0 +1,8 @@
+This parent project holds various application projects that explore 
+spring framework features or libraries compatible with the spring framework.
+
+For example, perhaps we are exploring with core framework features like dependency injection, or 
+experimenting with one of the spring modules like jdbc, mvc, security, aop, orm, or test.
+
+Alternatively, what if we want to experiment with integrating a spring framework based project
+with various logging libraries (log4j, slf4j/logback, etc) or using other libraries such as lombok or mapstruct.
